@@ -1,0 +1,6 @@
+def addition
+   number = 2+2
+   puts number 
+end
+
+ addition

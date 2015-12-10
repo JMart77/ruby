@@ -1,0 +1,9 @@
+def always_three(usernumber)
+     (((usernumber + 5) * 2 - 4) / 2 - usernumber)
+ end 
+
+
+puts "Give me a number"
+  number = gets.chomp.to_i
+
+ puts "Always " + always_three(number).to_s
