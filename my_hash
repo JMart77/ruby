@@ -1,0 +1,5 @@
+my_hash = {color: "blue", size: "large"}
+my_hash2 = {color: "red", size: "medium"}
+my_hash3 = {color: "pink", size: "small"}
+my_hash4 = {color: "blue", size: "medium"}
+
